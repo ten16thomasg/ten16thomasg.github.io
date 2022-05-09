@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Crypter
+title: Crypter Project
 permalink: /crypter/
 ---
 

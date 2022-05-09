@@ -21,7 +21,7 @@
 title: Thomas Blog
 email: thomastysong@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi I'm Thomas! Senior Software Engineer on teh Client Platform Engineering team at Uber.
+  Hi I'm Thomas! Senior Software Engineer on the Platform Engineering team at Uber.
   Follow me if you'd like to learn more about me!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
