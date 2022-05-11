@@ -49,7 +49,7 @@ It works
 # Example Usage
 
 
-[![Little red riding hood](crypter_thumbnail.png)](https://user-images.githubusercontent.com/39165147/166816876-c43bf52a-9b70-4c52-ae51-8cff461c1c7c.mp4 "Little red riding hood - Click to Watch!")
+[![Crypter Example](crypter_thumbnail.png)](https://user-images.githubusercontent.com/39165147/166816876-c43bf52a-9b70-4c52-ae51-8cff461c1c7c.mp4 "Crypter Example")
 
 
 <img src=".\crypter.png"
