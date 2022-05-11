@@ -6,5 +6,5 @@ permalink: /blogs/
 
 <iframe
   src="https://tomslmgtfy.com/"
-  style="width:100%; height:300px;"
+  style="width:300%; height:900px;"
 ></iframe>
